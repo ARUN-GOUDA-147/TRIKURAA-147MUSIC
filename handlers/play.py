@@ -168,7 +168,7 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="🕉️ OWNER 🕉️",
-                            url=f"https://t.me/ARU-GOUDA-147"),
+                            url=f"https://t.me/ARUN-GOUDA-147"),
                             
                     InlineKeyboardButton(
                             text="💜 EMPIRE 💜",
@@ -251,7 +251,7 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="🕉️ OWNER 🕉️",
-                            url=f"https://t.me/ARUN-GOUDA-147@@"),
+                            url=f"https://t.me/ARUN-GOUDA-147"),
                             
                     InlineKeyboardButton(
                             text="💜 EMPIRE 💜",
