@@ -130,7 +130,7 @@ async def play(_, message: Message):
                     pass
                 except Exception:
                     await lel.edit(
-                        f"<b> ayyio their is no assistant in your group add my assisatnt otherwise ask to my owner 💞 :- ✨ [AGORA](https://t.me/mr_agora) ❤️🥀 :) ")
+                        f"<b> ayyio their is no assistant in your group add my assisatnt otherwise ask to my owner 💞 :- ✨ [AGORA](https://t.me/ARUN-GOUDA-147) ❤️🥀 :) ")
     try:
         await USER.get_chat(chid)
     except:
@@ -168,7 +168,7 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="🕉️ OWNER 🕉️",
-                            url=f"https://t.me/mr_agora"),
+                            url=f"https://t.me/ARU-GOUDA-147"),
                             
                     InlineKeyboardButton(
                             text="💜 EMPIRE 💜",
@@ -221,7 +221,7 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="🕉️ OWNER 🕉️",
-                            url=f"https://t.me/mr_agora"),
+                            url=f"https://t.me/ARUN-GOUDA-147"),
                             
                     InlineKeyboardButton(
                             text="💜 EMPIRE 💜",
@@ -251,7 +251,7 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="🕉️ OWNER 🕉️",
-                            url=f"https://t.me/MR_AGORA"),
+                            url=f"https://t.me/ARUN-GOUDA-147@@"),
                             
                     InlineKeyboardButton(
                             text="💜 EMPIRE 💜",
@@ -319,7 +319,7 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="🕉️ OWNER 🕉️",
-                            url=f"https://t.me/mr_agora"),
+                            url=f"https://t.me/ARUN-GOUDA-147"),
                             
                     InlineKeyboardButton(
                             text="💜 EMPIRE 💜",
